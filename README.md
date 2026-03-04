@@ -10,7 +10,7 @@ Trading Analysis का मतलब है मार्केट की price m
 
 # 2. Types of Trading Analysis
 
-🔹 (A) Technical Analysis<br>
+<b>🔹 (A) Technical Analysis</b><br>
 <br>:- Price Chart का अध्ययन
 <br>:- Candlestick Patterns
 <br>:- Support and Resistance
@@ -20,14 +20,14 @@ Trading Analysis का मतलब है मार्केट की price m
 <b>👉 इसका उपयोग short-term trading में ज्यादा होता है।</b>
 
 
-🔹 (B) Fundamental Analysis
+<b>🔹 (B) Fundamental Analysis</b><br>
 
-:- Company Profit & Loss
-:- Balance Sheet
-:- News & Economic Events
-:- Management Quality
-:- Industry Performance
-👉 इसका उपयोग long-term investment में ज्यादा किया जाता है।
+<br>:- Company Profit & Loss
+<br>:- Balance Sheet
+<br>:- News & Economic Events
+<br>:- Management Quality
+<br>:- Industry Performance<br>
+<b>👉 इसका उपयोग long-term investment में ज्यादा किया जाता है।</b>
 
 # Let's explore the difference between technical analysis and fundamental analysis in depth.
 
