@@ -1,4 +1,4 @@
-# •Trading-analysis
+<p><b>•Trading-analysis</p></b>
 In this, things have been told to do a lot of analysis according to chatting.
 
 <hr>
