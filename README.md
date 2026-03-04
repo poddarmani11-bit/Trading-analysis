@@ -17,7 +17,7 @@ Trading Analysis का मतलब है मार्केट की price m
 <br>:- Indicators (RSI, MACD, Moving Average)
 <br>:- Volume Analysis
 
-👉 इसका उपयोग short-term trading में ज्यादा होता है।
+<b>👉 इसका उपयोग short-term trading में ज्यादा होता है।</b>
 
 
 🔹 (B) Fundamental Analysis
