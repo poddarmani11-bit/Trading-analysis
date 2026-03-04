@@ -18,8 +18,6 @@ Trading Analysis का मतलब है मार्केट की price m
 <br>:- Volume Analysis
 
 <b>👉 इसका उपयोग short-term trading में ज्यादा होता है।</b>
-
-
 <b>🔹 (B) Fundamental Analysis</b><br>
 
 <br>:- Company Profit & Loss
@@ -27,6 +25,7 @@ Trading Analysis का मतलब है मार्केट की price m
 <br>:- News & Economic Events
 <br>:- Management Quality
 <br>:- Industry Performance<br>
+
 <b>👉 इसका उपयोग long-term investment में ज्यादा किया जाता है।</b>
 
 # Let's explore the difference between technical analysis and fundamental analysis in depth.
