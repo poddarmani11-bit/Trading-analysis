@@ -27,6 +27,44 @@ Trading Analysis का मतलब है मार्केट की price m
 :- Industry Performance
 👉 इसका उपयोग long-term investment में ज्यादा किया जाता है।
 
+:- Let's explore the difference between technical analysis and fundamental analysis in depth.
+
+
+📊 Technical vs Fundamental Analysis (Deep Comparison Chart)
+आधार (Basis)
+Technical Analysis
+Fundamental Analysis
+1️⃣ परिभाषा
+चार्ट, कैंडलस्टिक और प्राइस मूवमेंट देखकर भविष्य की कीमत का अनुमान लगाना
+कंपनी की असली वैल्यू जानने के लिए उसके फाइनेंशियल और बिज़नेस का अध्ययन करना
+2️⃣ मुख्य फोकस
+Price Action और Volume
+Company Performance और Economic Data
+3️⃣ उपयोग किए जाने वाले टूल
+Indicators (RSI, MACD, Moving Average), Trend Line, Chart Pattern
+Balance Sheet, Profit & Loss, Cash Flow, P/E Ratio
+4️⃣ समय अवधि
+Short Term (Intraday, Swing Trading)
+Long Term (Investing 1–5 साल या ज्यादा)
+5️⃣ किस पर आधारित
+Market Psychology और Demand-Supply
+Company Earnings, Revenue, Management, Industry Growth
+6️⃣ डेटा का प्रकार
+Historical Price Data
+Financial Reports और Economic Reports
+7️⃣ उदाहरण
+अगर RSI 30 से नीचे है तो Stock Oversold हो सकता है
+अगर कंपनी का Profit हर साल बढ़ रहा है तो निवेश अच्छा हो सकता है
+8️⃣ रिस्क लेवल
+ज्यादा (क्योंकि Short Term Move)
+कम (लंबे समय में Stable Growth)
+9️⃣ किसके लिए बेहतर
+Traders के लिए
+Investors के लिए
+🔟 निर्णय लेने का आधार
+Chart Signal
+Company Value
+
 # 3. Important Concepts
 
 📌 Support – जहाँ price नीचे गिरकर रुकता है
