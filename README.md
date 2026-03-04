@@ -11,11 +11,11 @@ Trading Analysis का मतलब है मार्केट की price m
 # 2. Types of Trading Analysis
 
 🔹 (A) Technical Analysis<br>
-:- Price Chart का अध्ययन
-:- <br>Candlestick Patterns
-:-<br> Support and Resistance
-:- <br>Indicators (RSI, MACD, Moving Average)
-:-<br> Volume Analysis
+<br>:- Price Chart का अध्ययन
+:- Candlestick Patterns
+:- Support and Resistance
+:- Indicators (RSI, MACD, Moving Average)
+:- Volume Analysis
 
 👉 इसका उपयोग short-term trading में ज्यादा होता है।
 
