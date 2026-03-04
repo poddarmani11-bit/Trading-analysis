@@ -68,12 +68,12 @@ Trading Analysis का मतलब है मार्केट की price m
 :- Green = Price ऊपर बंद हुआ
 :- Red = Price नीचे बंद हुआ
 
-🔥 4️⃣ Support और Resistance (सबसे जरूरी)
+<b>🔥 4️⃣ Support और Resistance (सबसे जरूरी)</b>
 
-🟢 Support
+<mark>🟢 Support</mark>
 वह स्तर जहाँ Price बार-बार गिरकर रुकता है।
 
-🔴 Resistance
+<mark>🔴 Resistance</mark>
 वह स्तर जहाँ Price बार-बार ऊपर जाकर रुकता है।
 
 👉 Support टूटे = Price और गिर सकता है
