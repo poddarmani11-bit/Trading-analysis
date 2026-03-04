@@ -53,7 +53,7 @@ Trading Analysis का मतलब है मार्केट की price m
 <li><mark>Price हमेशा Trend में चलता है:</li></mark>
 <li><mark>Uptrend (Higher High, Higher Low)</li></mark>
 <li><mark>Downtrend (Lower High, Lower Low)</li></mark>
-<mark><li>Sideways</mark><li><br>
+<mark><li>Sideways</li></mark></ul><br>
 
 🔹 3. History Repeats Itself
 
@@ -70,15 +70,15 @@ Trading Analysis का मतलब है मार्केट की price m
 
 <b>🔥 4️⃣ Support और Resistance (सबसे जरूरी)</b>
 
-<mark>🟢 Support</mark>
+<mark>🟢 Support</mark><br>
 वह स्तर जहाँ Price बार-बार गिरकर रुकता है।
 
-<mark>🔴 Resistance</mark>
+<mark>🔴 Resistance</mark><br>
 वह स्तर जहाँ Price बार-बार ऊपर जाकर रुकता है।
-
-👉 Support टूटे = Price और गिर सकता है
-👉 Resistance टूटे = Price तेजी से ऊपर जा सकता है
-
+<ul>
+<li>👉 Support टूटे = Price और गिर सकता है</li>
+<li>👉 Resistance टूटे = Price तेजी से ऊपर जा सकता है</li>
+</ul>
 📉 5️⃣ Trend Analysis
 
 :-Uptrend
