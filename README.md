@@ -19,8 +19,8 @@ Trading Analysis का मतलब है मार्केट की price m
 
 👉 इसका उपयोग short-term trading में ज्यादा होता है।
 
-🔹 (B) Fundamental Analysis
 
+🔹 (B) Fundamental Analysis
 :- Company Profit & Loss
 :- Balance Sheet
 :- News & Economic Events
