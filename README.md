@@ -53,7 +53,7 @@ Trading Analysis का मतलब है मार्केट की price m
 <li><mark>Price हमेशा Trend में चलता है:</li>
 <li>Uptrend (Higher High, Higher Low)</li>
 <li>Downtrend (Lower High, Lower Low)</li>
-<li>Sideways</ki></mark>
+<li>Sideways</li></mark>
 
 🔹 3. History Repeats Itself
 
