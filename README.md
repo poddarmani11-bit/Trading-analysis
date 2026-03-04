@@ -18,6 +18,7 @@ Trading Analysis का मतलब है मार्केट की price m
 <br>:- Volume Analysis
 
 <b>👉 इसका उपयोग short-term trading में ज्यादा होता है।</b>
+
 <b>🔹 (B) Fundamental Analysis</b><br>
 
 <br>:- Company Profit & Loss
