@@ -5,7 +5,7 @@ In this, things have been told to do a lot of analysis according to chatting.
 
 📊 Trading Analysis
 <hr>
-# 1. Introduction
+<h1>1. Introduction</h1>
 <b><u>Trading Analysis</b></u> का मतलब है मार्केट की price movement को समझकर सही समय पर Buy और Sell का निर्णय लेना। यह शेयर मार्केट, क्रिप्टो मार्केट और फॉरेक्स मार्केट में उपयोग किया जाता है।
 
 # 2. Types of Trading Analysis
