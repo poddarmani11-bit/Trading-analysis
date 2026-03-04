@@ -31,9 +31,9 @@ Trading Analysis का मतलब है मार्केट की price m
 # Let's explore the difference between technical analysis and fundamental analysis in depth.
 
 
-1.📊 Technical vs Fundamental Analysis (Deep Comparison Chart)
+<b><big>1.📊 Technical vs Fundamental Analysis (Deep Comparison Chart)</b></big>
 
-1️⃣ Technical Analysis क्या है?
+<b>1️⃣ Technical Analysis क्या है?</b>
 
 :- Technical Analysis वह तरीका है जिसमें हम Chart, Price और Volume को देखकर भविष्य की Price का अनुमान लगाते हैं।
 
@@ -41,24 +41,25 @@ Trading Analysis का मतलब है मार्केट की price m
 “Price chart में सब कुछ शामिल होता है।”
 इसका मतलब — News, Emotion, Demand-Supply सब Price में दिख जाता है।
 
-2️⃣ Technical Analysis के 3 मुख्य सिद्धांत
+<b>2️⃣ Technical Analysis के 3 मुख्य सिद्धांत</b>
 
 🔹 1. Market Everything Discounts
 
-जो भी जानकारी है, वह पहले से Price में शामिल होती है।
+<u>जो भी जानकारी है, वह पहले से Price में शामिल होती है।</u>
 
 🔹 2. Price Moves in Trends
+<ul>
 
-Price हमेशा Trend में चलता है:
-Uptrend (Higher High, Higher Low)
-Downtrend (Lower High, Lower Low)
-Sideways
+<li><mark>Price हमेशा Trend में चलता है:</li>
+<li>Uptrend (Higher High, Higher Low)</li>
+<li>Downtrend (Lower High, Lower Low)</li>
+<li>Sideways</ki></mark>
 
 🔹 3. History Repeats Itself
 
-Chart Pattern बार-बार दोहराते हैं (Market Psychology के कारण)।
+<b><u>Chart Pattern बार-बार दोहराते हैं (Market Psychology के कारण)।</b></u>
 
-📊 3️⃣ Chart के प्रकार
+<b>📊 3️⃣ Chart के प्रकार</b>
 
 :- Line Chart
 :- Bar Chart
