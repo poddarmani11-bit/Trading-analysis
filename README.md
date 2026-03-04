@@ -21,6 +21,7 @@ Trading Analysis का मतलब है मार्केट की price m
 
 
 🔹 (B) Fundamental Analysis
+
 :- Company Profit & Loss
 :- Balance Sheet
 :- News & Economic Events
