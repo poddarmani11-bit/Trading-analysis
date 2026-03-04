@@ -53,11 +53,11 @@ Trading Analysis का मतलब है मार्केट की price m
 <li><mark>Price हमेशा Trend में चलता है:</li></mark>
 <li><mark>Uptrend (Higher High, Higher Low)</li></mark>
 <li><mark>Downtrend (Lower High, Lower Low)</li></mark>
-<mark><li>Sideways</li></mark>
+<mark><li>Sideways</li></mark><br>
 
 🔹 3. History Repeats Itself
 
-<b>Chart Pattern बार-बार दोहराते हैं (Market Psychology के कारण)।</b>
+<b>•Chart Pattern बार-बार दोहराते हैं (Market Psychology के कारण)।</b>
 
 <b>📊 3️⃣ Chart के प्रकार</b>
 
