@@ -12,10 +12,10 @@ Trading Analysis का मतलब है मार्केट की price m
 
 🔹 (A) Technical Analysis<br>
 <br>:- Price Chart का अध्ययन
-:- Candlestick Patterns
-:- Support and Resistance
-:- Indicators (RSI, MACD, Moving Average)
-:- Volume Analysis
+<br>:- Candlestick Patterns
+<br>:- Support and Resistance
+<br>:- Indicators (RSI, MACD, Moving Average)
+<br>:- Volume Analysis
 
 👉 इसका उपयोग short-term trading में ज्यादा होता है।
 
