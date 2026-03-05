@@ -79,7 +79,7 @@ In this, things have been told to do a lot of analysis according to chatting.
 <li>👉 Support टूटे = Price और गिर सकता है</li>
 <li>👉 Resistance टूटे = Price तेजी से ऊपर जा सकता है</li>
 </ul>
-📉 5️⃣ Trend Analysis
+<b>📉 5️⃣ Trend Analysis</b>
 
 <b>:-</b><mark>Uptrend</mark><br>
 Higher High + Higher Low
@@ -92,28 +92,28 @@ Price एक Range में घूमता है
 
 <b>•Trend पहचानना सबसे महत्वपूर्ण Skill है।</b>
 
-📈 6️⃣ Indicators (संकेत देने वाले टूल)
+<b>📈 6️⃣ Indicators (संकेत देने वाले टूल)</b>
 
-🔹 Moving Average (MA)
+<u>🔹 Moving Average (MA)</u>
 
 Average Price दिखाता है
 
 50 MA = Short Term Trend
 200 MA = Long Term Trend
 
-🔹 RSI (Relative Strength Index)
+<u>🔹 RSI (Relative Strength Index)</u>
 
 Range: 0–100
 70 से ऊपर = Overbought
 30 से नीचे = Oversold
 
-🔹 MACD
+<u>🔹 MACD</u>
 
-Trend और Momentum दिखाता है
+<mark>Trend और Momentum दिखाता है</u>
 
-📊 7️⃣ Chart Patterns
+<b>📊 7️⃣ Chart Patterns</b>
 
-1. Bullish Patterns
+<u>1. Bullish Patterns</u>
 
 :- Double Bottom
 :- Cup and Handle
