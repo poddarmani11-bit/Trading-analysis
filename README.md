@@ -81,16 +81,16 @@ In this, things have been told to do a lot of analysis according to chatting.
 </ul>
 📉 5️⃣ Trend Analysis
 
-<b>:-</b><mark>Uptrend</mark>
+<b>:-</b><mark>Uptrend</mark><br>
 Higher High + Higher Low
 
-<b>:-</b><mark>Downtrend</mark>
+<b>:-</b><mark>Downtrend</mark><br>
 Lower High + Lower Low
 
-<b>:-</b><mark>Sideways</mark>
+<b>:-</b><mark>Sideways</mark><br>
 Price एक Range में घूमता है
 
-<b>Trend पहचानना सबसे महत्वपूर्ण Skill है।</b>
+<b>•Trend पहचानना सबसे महत्वपूर्ण Skill है।</b>
 
 📈 6️⃣ Indicators (संकेत देने वाले टूल)
 
