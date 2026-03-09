@@ -100,10 +100,10 @@ Price एक Range में घूमता है
 
 <u>🔹 Moving Average (MA)</u>
 
-Average Price दिखाता है
+<b>→</b>Average Price दिखाता है
 
-<br>50 MA = Short Term Trend
-<br>200 MA = Long Term Trend
+<br>•50 MA = Short Term Trend
+<br>•200 MA = Long Term Trend
 
 <u>🔹 RSI (Relative Strength Index)</u>
 
@@ -118,7 +118,7 @@ Average Price दिखाता है
 
 <b>📊 7️⃣ Chart Patterns</b>
 
-<u>1. Bullish Patterns</u>
+1. Bullish Patterns
 
 <br>:- Double Bottom
 <br>:- Cup and Handle
@@ -136,31 +136,33 @@ Average Price दिखाता है
 
 <b>•इसमें Indicator कम और Candle Pattern ज्यादा देखा जाता है।</b><br>
 
-1. Common Candle Patterns:
+<b>1.</b> Common Candle Patterns:
 
 <br>:- Hammer
 <br>:- Inverted Hammer
 <br>:- Engulfing
 <br>:- Doji
 <hr>
-⏳ 9️⃣ Time Frame का महत्व
+<b>⏳ 9️⃣ Time Frame का महत्व</b>
 
-:- 1m, 5m = Intraday
-:- 1h, 4h = Swing
-:- 1D = Position Trading
+<br>:- 1m, 5m = Intraday
+<br>:- 1h, 4h = Swing
+<br>:- 1D = Position Trading
 
-बड़ा Timeframe ज्यादा मजबूत Signal देता है।
+<br><b>•बड़ा Timeframe ज्यादा मजबूत Signal देता है।</b>
+<hr>
 
 
-💰 🔟 Risk Management (सबसे जरूरी)
+<b>💰 🔟 Risk Management (सबसे जरूरी)</b>
 
-• अगर Risk Control नहीं किया तो Analysis बेकार है।
+<br>• अगर Risk Control नहीं किया तो Analysis बेकार है।
 
-• Stop Loss जरूर लगाओ
+<br>• Stop Loss जरूर लगाओ
 
-:- 1:2 Risk Reward Ratio रख
+<br>:- 1:2 Risk Reward Ratio रख
 
-:- Capital का 2–3% से ज्यादा Risk मत लो
+<br>:- Capital का 2–3% से ज्यादा Risk मत लो
+<hr>
 
 # 3. Important Concepts
 
