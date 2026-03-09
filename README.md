@@ -157,6 +157,7 @@ Price एक Range में घूमता है
 <br>:- Capital का 2–3% से ज्यादा Risk मत लो
 <hr>
 #<b> 3.</b> Important Concepts
+
 <br>📌 Support – जहाँ price नीचे गिरकर रुकता है
 <br>📌 Resistance – जहाँ price ऊपर जाकर रुकता है
 <br>📌 Stop Loss – नुकसान को सीमित करने के लिए
