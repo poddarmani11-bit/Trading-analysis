@@ -118,74 +118,62 @@ Price एक Range में घूमता है
 
 <b>📊 7️⃣ Chart Patterns</b>
 
-1. Bullish Patterns
-
+<b>1.</b> Bullish Patterns
 <br>:- Double Bottom
 <br>:- Cup and Handle
 <br>:- Inverse Head & Shoulders
 
-2. Bearish Patterns
-
+<b>2.</b> Bearish Patterns
 <br>:- Double Top
 <br>:- Head & Shoulders
 <br>:- Descending Triangle
 <hr>
 
 <b>🧠 8️⃣ Price Action</b>
-<br>यह सबसे Advanced तरीका है।
+<br><b>•यह सबसे Advanced तरीका है।</b>
 
-<b>•इसमें Indicator कम और Candle Pattern ज्यादा देखा जाता है।</b><br>
+<b><mark>•इसमें Indicator कम और Candle Pattern ज्यादा देखा जाता है।</b></mark><br>
 
 <b>1.</b> Common Candle Patterns:
-
 <br>:- Hammer
 <br>:- Inverted Hammer
 <br>:- Engulfing
 <br>:- Doji
 <hr>
 <b>⏳ 9️⃣ Time Frame का महत्व</b>
-
 <br>:- 1m, 5m = Intraday
 <br>:- 1h, 4h = Swing
 <br>:- 1D = Position Trading
 
-<br><b>•बड़ा Timeframe ज्यादा मजबूत Signal देता है।</b>
+<br><b><mark>•बड़ा Timeframe ज्यादा मजबूत Signal देता है।</b></mark>
 <hr>
 
 
 <b>💰 🔟 Risk Management (सबसे जरूरी)</b>
 
 <br>• अगर Risk Control नहीं किया तो Analysis बेकार है।
-
 <br>• Stop Loss जरूर लगाओ
-
 <br>:- 1:2 Risk Reward Ratio रख
-
 <br>:- Capital का 2–3% से ज्यादा Risk मत लो
 <hr>
-
-# 3. Important Concepts
-
-📌 Support – जहाँ price नीचे गिरकर रुकता है
-📌 Resistance – जहाँ price ऊपर जाकर रुकता है
-📌 Stop Loss – नुकसान को सीमित करने के लिए
-📌 Target – Profit लेने का level
-📌 Risk Management – पूंजी की सुरक्षा
-
-# 4. Common Indicators Used
-
-:- RSI (Relative Strength Index)
-:- MACD (Moving Average Convergence Divergence)
-:- Moving Average
-:- Bollinger Bands
-
-# 5. Risk Management Rules
-
-:- एक ट्रेड में 2–5% से ज्यादा capital risk न करें
-:- हमेशा Stop Loss लगाएँ
-:- Emotional trading से बचें
-:- Proper strategy follow करें
-
-# 6. Conclusion
-
-:- Trading में सफलता पाने के लिए discipline, patience और proper analysis बहुत जरूरी है। बिना knowledge के trading करना जोखिम भरा हो सकता है। Practice और strategy के साथ ही consistent profit कमाया जा सकता है।
+#<b> 3.</b> Important Concepts
+<br>📌 Support – जहाँ price नीचे गिरकर रुकता है
+<br>📌 Resistance – जहाँ price ऊपर जाकर रुकता है
+<br>📌 Stop Loss – नुकसान को सीमित करने के लिए
+<br>📌 Target – Profit लेने का level
+<br>📌 Risk Management – पूंजी की सुरक्षा
+<hr>
+# <b>4. </br>Common Indicators Used
+<br>:- RSI (Relative Strength Index)
+<br>:- MACD (Moving Average Convergence Divergence)
+<br>:- Moving Average
+<br>:- Bollinger Bands
+<hr>
+#<b> 5.</b> Risk Management Rules
+<br>:- एक ट्रेड में 2–5% से ज्यादा capital risk न करें
+<br>:- हमेशा Stop Loss लगाएँ
+<br>:- Emotional trading से बचें
+<br>:- Proper strategy follow करें
+<hr>
+# <b>6.</b> Conclusion
+<br><b>:- </b>Trading में सफलता पाने के लिए <mark>"discipline"</mark>, <mark>"patience" <mark>और proper analysis बहुत जरूरी है। बिना knowledge के trading करना जोखिम भरा हो सकता है। Practice और strategy के साथ ही consistent profit कमाया जा सकता है।
