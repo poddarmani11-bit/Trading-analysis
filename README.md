@@ -156,7 +156,7 @@ Price एक Range में घूमता है
 <br>:- 1:2 Risk Reward Ratio रख
 <br>:- Capital का 2–3% से ज्यादा Risk मत लो
 <hr>
-# 3.Important Concepts
+# 3. Important Concepts
 
 <br>📌 Support – जहाँ price नीचे गिरकर रुकता है
 <br>📌 Resistance – जहाँ price ऊपर जाकर रुकता है
@@ -164,17 +164,17 @@ Price एक Range में घूमता है
 <br>📌 Target – Profit लेने का level
 <br>📌 Risk Management – पूंजी की सुरक्षा
 <hr>
-# 4.Common Indicators Used
+# 4. Common Indicators Used
 <br>:- RSI (Relative Strength Index)
 <br>:- MACD (Moving Average Convergence Divergence)
 <br>:- Moving Average
 <br>:- Bollinger Bands
 <hr>
-# 5.Risk Management Rules
+# 5. Risk Management Rules
 <br>:- एक ट्रेड में 2–5% से ज्यादा capital risk न करें
 <br>:- हमेशा Stop Loss लगाएँ
 <br>:- Emotional trading से बचें
 <br>:- Proper strategy follow करें
 <hr>
-# 6.Conclusion
+# 6. Conclusion
 <br><b>:- </b>Trading में सफलता पाने के लिए <mark>"discipline"</mark>, <mark>"patience" <mark>और proper analysis बहुत जरूरी है। बिना knowledge के trading करना जोखिम भरा हो सकता है। Practice और strategy के साथ ही consistent profit कमाया जा सकता है।
