@@ -61,12 +61,12 @@ In this, things have been told to do a lot of analysis according to chatting.
 
 <b>📊 3️⃣ Chart के प्रकार</b>
 
-:- Line Chart
-:- Bar Chart
-:- Candlestick Chart (सबसे ज्यादा इस्तेमाल)
-:- Candlestick में:
-:- Green = Price ऊपर बंद हुआ
-:- Red = Price नीचे बंद हुआ
+<br>:- Line Chart
+<br>:- Bar Chart
+<br>:- Candlestick Chart (सबसे ज्यादा इस्तेमाल)
+<br>:- Candlestick में:
+<br>:- Green = Price ऊपर बंद हुआ
+<br>:- Red = Price नीचे बंद हुआ
 
 <b>🔥 4️⃣ Support और Resistance (सबसे जरूरी)</b>
 
