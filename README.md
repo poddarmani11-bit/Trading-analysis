@@ -32,6 +32,7 @@ In this, things have been told to do a lot of analysis according to chatting.
 
 
 <b><big>1.📊 Technical vs Fundamental Analysis (Deep Comparison Chart)</b></big>
+<hr>
 
 <b>1️⃣ Technical Analysis क्या है?</b>
 
@@ -40,6 +41,7 @@ In this, things have been told to do a lot of analysis according to chatting.
 :- यह इस सिद्धांत पर काम करता है:
 “Price chart में सब कुछ शामिल होता है।”
 इसका मतलब — News, Emotion, Demand-Supply सब Price में दिख जाता है।
+<hr>
 
 <b>2️⃣ Technical Analysis के 3 मुख्य सिद्धांत</b>
 
@@ -58,6 +60,7 @@ In this, things have been told to do a lot of analysis according to chatting.
 🔹 3. History Repeats Itself
 
 <b>•Chart Pattern बार-बार दोहराते हैं (Market Psychology के कारण)।</b>
+<hr>
 
 <b>📊 3️⃣ Chart के प्रकार</b>
 
@@ -67,7 +70,7 @@ In this, things have been told to do a lot of analysis according to chatting.
 <br>:- Candlestick में:
 <br>:- Green = Price ऊपर बंद हुआ
 <br>:- Red = Price नीचे बंद हुआ
-
+<hr>
 <b>🔥 4️⃣ Support और Resistance (सबसे जरूरी)</b>
 
 <mark>🟢 Support</mark><br>
@@ -91,6 +94,7 @@ Lower High + Lower Low
 Price एक Range में घूमता है
 
 <b>•Trend पहचानना सबसे महत्वपूर्ण Skill है।</b>
+<hr>
 
 <b>📈 6️⃣ Indicators (संकेत देने वाले टूल)</b>
 
@@ -98,46 +102,47 @@ Price एक Range में घूमता है
 
 Average Price दिखाता है
 
-50 MA = Short Term Trend
-200 MA = Long Term Trend
+<br>50 MA = Short Term Trend
+<br>200 MA = Long Term Trend
 
 <u>🔹 RSI (Relative Strength Index)</u>
 
-Range: 0–100
-70 से ऊपर = Overbought
-30 से नीचे = Oversold
+<br>Range: 0–100
+<br>70 से ऊपर = Overbought
+<br>30 से नीचे = Oversold
 
 <u>🔹 MACD</u>
 
 <mark>Trend और Momentum दिखाता है</u>
+<hr>
 
 <b>📊 7️⃣ Chart Patterns</b>
 
 <u>1. Bullish Patterns</u>
 
-:- Double Bottom
-:- Cup and Handle
-:- Inverse Head & Shoulders
+<br>:- Double Bottom
+<br>:- Cup and Handle
+<br>:- Inverse Head & Shoulders
 
 2. Bearish Patterns
 
-:- Double Top
-:- Head & Shoulders
-:- Descending Triangle
+<br>:- Double Top
+<br>:- Head & Shoulders
+<br>:- Descending Triangle
+<hr>
 
+<b>🧠 8️⃣ Price Action</b>
+<br>यह सबसे Advanced तरीका है।
 
-🧠 8️⃣ Price Action
-यह सबसे Advanced तरीका है।
-
-इसमें Indicator कम और Candle Pattern ज्यादा देखा जाता है।
+<b>•इसमें Indicator कम और Candle Pattern ज्यादा देखा जाता है।</b><br>
 
 1. Common Candle Patterns:
 
-:- Hammer
-:- Inverted Hammer
-:- Engulfing
-:- Doji
-
+<br>:- Hammer
+<br>:- Inverted Hammer
+<br>:- Engulfing
+<br>:- Doji
+<hr>
 ⏳ 9️⃣ Time Frame का महत्व
 
 :- 1m, 5m = Intraday
